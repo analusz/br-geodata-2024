@@ -18,7 +18,7 @@ Os arquivos foram processados e organizados para uso eficiente em diferentes fer
 
 # 🧭Cobertura
 
-Abaixo está a cobertura territorial dos mapas em GeoJSON, disponíveis neste repositório para visualização direta, dashboards e aplicações web no território do Brasil.
+Abaixo está a cobertura territorial dos mapas em JSON, disponíveis neste repositório para visualização direta, dashboards e aplicações web no território do Brasil.
 
 ```geojson
 {"type":"GeometryCollection", "geometries": [
