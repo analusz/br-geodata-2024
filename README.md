@@ -1,6 +1,6 @@
 # 🗺️ Malhas IBGE - 2024 (Brasil)
 
-🗺️ Conjunto de dados geoespaciais do Brasil (2024) contendo malhas territoriais administrativas em GeoJSON e TopoJSON, voltadas para visualização de mapas, dashboards e aplicações web.
+🗺️ Conjunto de dados geoespaciais do Brasil (2024) contendo malhas territoriais administrativas em JSON, voltadas para visualização de mapas, dashboards e aplicações web.
 
 O repositório inclui:
 
